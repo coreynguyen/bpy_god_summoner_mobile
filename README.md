@@ -26,12 +26,12 @@ The **God Summoner Mesh Importer** is a Python script designed to import 3D mode
 
 ### Installation
 
-1. **Download the Script**: Obtain the `GodSummonerMeshImporter.py` Python script file.
+1. **Download the Script**: Obtain the `bpy_god_summoner.py` Python script file.
 
 2. **Open the Script in Blender**:
    - Open Blender.
    - Go to **Scripting** tab in Blender's top bar.
-   - Either paste the contents of the `GodSummonerMeshImporter.py` script into the **Text Editor** or **Open** the script file using the **Open Text Block** button.
+   - Either paste the contents of the `bpy_god_summoner.py` script into the **Text Editor** or **Open** the script file using the **Open Text Block** button.
 
 3. **Run the Script**:
    - Press the **Play** icon (triangle button) in the **Text Editor**.
